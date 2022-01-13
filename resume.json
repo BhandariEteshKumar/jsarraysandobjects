@@ -1,0 +1,63 @@
+{
+  "Name": "Bandari Etesh Kumar",
+  "Mobile No": "+91 9491236506",
+  "Email ID": "eteshb@gmail.com",
+  "Project Experience": [
+    "Developed Automation Test Scripts for testing of different components in a website, through different fields, login, users, data, admin testcases",
+    "Automated 250+ testcases.",
+    "Implemented scripts using selenium with C# in Visual Studio Code.",
+    "Optimized the Code written by the team-members and provide solutions to resolve the problems",
+    "Contributed in implementing a new framework."
+  ],
+  "Technical Skills": {
+    "Languages and technology": [
+      "C",
+      "C++",
+      "JAVA",
+      "HTML",
+      "Spring Boot",
+      "JavaScript"
+    ],
+    "Scripting": "Selenium with C#",
+    "Databases": ["SQL", "MongoDB"],
+    "Tools": "Visual Studio Code"
+  },
+  "Education": {
+    "BTech(Computer Science and Engineering)": {
+      "Name of the Institution": "G.Pullareddy Engineering College , Kurnool.",
+      "Year Of Passing": "2016-2020",
+      "CGPA/MARKS": 7.41
+    },
+    "Intermediate": {
+      "Name of the Institution": "Narayana Junior College , Adoni.",
+      "Year Of Passing": "2014-2016",
+      "CGPA/MARKS": 936
+    },
+    "SSC": {
+      "Name of the Institution": "Akshara Sri IIT School, Adoni",
+      "Year Of Passing": "2014",
+      "CGPA/MARKS": 9.3
+    }
+  },
+
+  "Achievements": [
+    "Did an IoT project based on WeMos D1 Mini IoT board",
+    "Selected in APSSC and IUCCE collaboration on virtual and rare labs workshop and did a project for them. Organized an event when I was in second year on technical aspect",
+    "Part of a startup in my 2 and 3rd years which deals with laptop problems",
+    "Participated in district level competition of chess.",
+    "Part of another startup where I did a lot of groundwork and surveys to create a website.",
+    "Received certification for the completion of training in C, C++,Java offered by Spoken Tutorial Project, IIT Bombay.",
+    "Served as a volunteer in NSS program and got selected to NSS Special Camp"
+  ],
+
+  "Personal Profile": [
+    {
+      "D.O.B": "03/04/1999",
+      "Father’s Name": "B.Prahallada Rao",
+      "Mother’s Name": "K.Lalitha",
+      "Gender": "Male",
+      "Languages Known": ["Marathi", "Telugu", "Hindi", "English"],
+      "Hobbies": ["Playing Chess, Watching", "Web series", "Reading Books"]
+    }
+  ]
+}
